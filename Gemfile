@@ -1,0 +1,11 @@
+source 'https://rubygems.org'
+ gem 'capybara'
+ gem 'cucumber'
+ gem 'selenium-webdriver'
+ gem 'cucumber'
+ gem 'cucumber-rails', :require => false
+ gem 'site_prism'
+ gem 'byebug'
+ gem 'pry-byebug'
+ gem 'rspec'
+ gem 'rspec-rails'
