@@ -23,7 +23,9 @@ bundle install
 cucumber cucumber <feature_directories> 
 e.g: cucumber /Users/nhunguyen/insurance_app/features/travel_insurance/travel_insurance.feature
 
-8.Run report cucumber -f pretty -f html -o report.html
+8.Run report 
+cucumber -f pretty -f html -o report.html
+I also generated report, plz have a look in report.html 
 
 9.All information about code struture is below file
 https://docs.google.com/document/d/1yR3DIBZBq-4V_l_mzj32QkpBVj56GL29uHXYVwAU1mI/edit# GBTest
